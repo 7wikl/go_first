@@ -1,3 +1,3 @@
-module first.go
+module hello-world
 
 go 1.27.1
